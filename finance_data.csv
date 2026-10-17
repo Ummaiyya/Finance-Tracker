@@ -1,0 +1,6 @@
+type,category,amount,date
+income,freelance,30000.0,2026-10-17
+income,salary,70000.0,2026-10-17
+expense,Food,5000.0,2026-10-17
+income,Interest ,2000.0,2026-10-17
+expense,Fuel,10000.0,2026-10-17
